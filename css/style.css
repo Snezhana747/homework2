@@ -1,0 +1,66 @@
+body {
+    background-color: lightgrey;
+}
+
+.vse {
+    margin: 10px 490px 20px 490px;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 3px 3px rgba(191,187,191,1);
+    -moz-box-shadow: 0px 0px 3px 3px rgba(191,187,191,1);
+    box-shadow: 0px 0px 3px 3px rgba(191,187,191,1);
+    border: 1px solid lightgray;
+}
+
+.name{
+    margin: 40px 110px 20px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+img{
+    margin: 0% 65% 0% 35%;
+}
+
+.work{
+    margin: 10px 40px 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-bottom: 1.5px solid lightslategrey;
+}
+
+.table{
+    border-bottom: 1.5px solid lightslategrey;
+    margin: 10px 40px 20px;
+    padding-left: 15px;
+}
+
+ul{
+    padding-left: 20px;
+    padding-top: 6px;
+    line-height: 21px;
+}
+
+.tel{
+    margin: 10px 40px 20px;
+    padding-left: 15px;
+    border-bottom: 1.5px solid lightslategrey;
+    line-height: 22px;
+}
+
+.fidbeck{
+    margin: 10px 40px 45px;
+    padding-left: 15px;
+    line-height: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
